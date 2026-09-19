@@ -1,0 +1,32 @@
+{
+  "heading": "Methods & tools",
+  "sub": "Quantitative and qualitative methods, modelling and project tools for digital transformation research.",
+  "profileUrl": "https://www.linkedin.com/in/ayotobiholo",
+  "profileLabel": "linkedin.com/in/ayotobiholo",
+  "built": [
+    {
+      "kind": "Framework",
+      "meta": "MSc thesis",
+      "title": "DT4ROI Maturity Model",
+      "desc": "A digital-transformation maturity model that scores a business across People, Organization & Culture, Information & Technology, and Operations — to guide where digital investment pays off.",
+      "cta": "University of Salento, 2024",
+      "url": null
+    },
+    {
+      "kind": "Decision model",
+      "meta": "Excel",
+      "title": "Digital transformation success factors",
+      "desc": "A model of the key factors for leveraging and capitalising on digital transformation initiatives in industrial settings; co-developed and validated for IFKAD 2025.",
+      "cta": "Accepted, IFKAD 2025",
+      "url": null
+    },
+    {
+      "kind": "Business plan",
+      "meta": "Blockchain",
+      "title": "CreditLinks",
+      "desc": "A decentralised marketplace for secure credit transfers between financial institutions, with market analysis, smart-contract design and a profitability projection.",
+      "cta": "Team project, 2023",
+      "url": null
+    }
+  ]
+}

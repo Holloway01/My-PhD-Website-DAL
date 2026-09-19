@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Ayotobi Oromiye Holo — Digital Transformation Research</title>
+<meta name="description" content="PhD student in Management at Dalhousie University. Research on digital transformation, data-driven decision-making and AI-enabled technology adoption in SMEs and public institutions."/>
+<meta property="og:title" content="Ayotobi Oromiye Holo — Digital Transformation Research"/>
+<meta property="og:description" content="PhD student in Management, Dalhousie University. Digital transformation, SMEs and AI-enabled decision tools."/>
+<meta property="og:image" content="/assets/images/profile-picture.jpg"/>
+<link rel="icon" type="image/png" href="/assets/images/favicon.png"/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet"/>
+<script>
+  try {
+    var saved = localStorage.getItem('ah-theme') || 'dark';
+    document.documentElement.setAttribute('data-theme', saved);
+  } catch (e) {
+    document.documentElement.setAttribute('data-theme', 'dark');
+  }
+</script>
+<!-- Netlify Identity: redirects invite/recovery emails into the /admin CMS login -->
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on('init', (user) => {
+      if (!user) {
+        window.netlifyIdentity.on('login', () => {
+          document.location.href = '/admin/';
+        });
+      }
+    });
+  }
+</script>
+</head>
+<body>
+<div id="root"></div>
+<script type="module" src="/src/main.tsx"></script>
+</body>
+</html>

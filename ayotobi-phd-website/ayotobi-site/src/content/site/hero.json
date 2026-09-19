@@ -1,0 +1,36 @@
+{
+  "navShortName": "Ayotobi",
+  "navTagline": "Digital transformation & SMEs",
+  "email": "ayotobiholo@gmail.com",
+  "kicker": "PhD Student, Management — Dalhousie University",
+  "status": "Halifax, Nova Scotia, Canada",
+  "nameLine1": "Ayotobi",
+  "nameLine2": "Oromiye Holo",
+  "tagline": "Helping SMEs and public institutions use **digital technologies** and AI-enabled tools to drive innovation, improve performance and create real-world impact",
+  "facts": [
+    {
+      "label": "Research",
+      "value": "Digital transformation, data-driven decision-making and AI-enabled technology adoption"
+    },
+    {
+      "label": "Position",
+      "value": "Research Assistant & Teaching Assistant, Dalhousie University"
+    },
+    {
+      "label": "Previously",
+      "value": "MSc Management Engineering, University of Salento — CORE Lab"
+    }
+  ],
+  "ctas": [
+    {
+      "label": "View research",
+      "url": "#publications",
+      "style": "fill"
+    },
+    {
+      "label": "Connect on LinkedIn",
+      "url": "https://www.linkedin.com/in/ayotobiholo",
+      "style": "ghost"
+    }
+  ]
+}
